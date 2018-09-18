@@ -1,0 +1,22 @@
+{
+  "name": "nodeshell",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bash.js",
+  "scripts": {
+    "dev": "nodemon bash.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benjaminpwagner/nodeshell.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benjaminpwagner/nodeshell/issues"
+  },
+  "homepage": "https://github.com/benjaminpwagner/nodeshell#readme",
+  "devDependencies": {
+    "nodemon": "^1.18.4"
+  }
+}
